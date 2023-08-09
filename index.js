@@ -2,7 +2,7 @@ const inquirer = require('inquirer');
 const { writeFile } = require('fs').promises;
 
 const renderColorList = require("./lib/renderColorList.js");
-// const RenderShadeList = require("./lib/renderShadeList.js");
+const generateLogo = require('./lib/generateLogo.js')
 const cliColors = require("./lib/console-colors.js");
 
 const questions = () => {
@@ -18,27 +18,17 @@ const questions = () => {
         message: `${cliColors.cyan(`What is the color of your logo's text?`)}`,
         choices: renderColorList.prototype.colorList,
       },
-      // {
-      //   when: function(ans) {
-      //     RenderShadeList(ans.textColor)
-      //   },
-      // },
-      // {
-      //   type: "list",
-      //   name: "textShade",
-      //   message: `${cliColors.cyan(`Now choose a color shade for your logo's text:`)}`,
-      //   choices: renderColorList.prototype.colorList,
-      // },
       {
         type: "list",
-        name: "shape",
+        name: "logoShape",
         message: `${cliColors.blue(`Choose your logo's shape:`)}`,
-        choices: ['circle', 'square', 'triangle'],
+        choices: ['Circle', 'Square', 'Triangle'],
       },
       {
-        type: "input",
-        name: "shapeColor",
+        type: "list",
+        name: "logoColor",
         message: `${cliColors.red(`What is the color of your logo's shape?`)}`,
+        choices: renderColorList.prototype.colorList,
       },
     ]);
   };
@@ -46,7 +36,7 @@ const questions = () => {
   const init = () => {
     renderColorList()
     questions()
-    .then((res) => console.log(res))
+    .then((res) => generateLogo(res))
     .then(() => console.log("Successful"))
     .catch((err) => console.log(err));
   }
