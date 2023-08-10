@@ -31,13 +31,20 @@ const questions = () => {
       type: "list",
       name: "logoShape",
       message: `${cliColors.magenta(`Choose your logo's shape:`)}`,
-      choices: ["Circle", "Square", "Triangle"],
+      choices: ["Circle", "Square", "Triangle", "Hexagon", "Star", "Moon", "Heart", "Witch"],
     },
     {
       type: "rawlist",
       name: "logoColor",
       message: `${cliColors.magenta(`What is the color of your logo's shape?`)}`,
       choices: renderColorList.prototype.colorList,
+    },
+    {
+      type: "list",
+      name: "font",
+      message: `${cliColors.magenta(`What font would you like in your logo?`)}`,
+      choices: ['Astloch', 'Ballet', 'Cherish', 'Grenze Gotisch', 'Handjet', 'Roboto', 'Sofia Sans Condensed', 'Ysabeau Infant', 'Ysabeau Office', 'Ysabeau SC', 'Yuji Boku', 'san-serif'],
+      default: 'san-serif',
     },
   ]);
 };
