@@ -1,9 +1,0 @@
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Astloch&family=Ballet:opsz@16..72&family=Cherish&family=Grenze+Gotisch:wght@200&family=Handjet:wght@300&family=Roboto&family=Sofia+Sans+Condensed:wght@300&family=Ysabeau+Infant:wght@300&family=Ysabeau+Office&family=Ysabeau+SC:wght@300&family=Yuji+Boku&display=swap" rel="stylesheet">
-
-<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-  <polygon points="150, 0, 50, 160, 250, 160" fill="#9FE2BF" />
-  <text x="150" y="125" text-anchor="middle" font-size="60" font-family='Ysabeau Infant', fill="#702963">MRI</text>
-</svg>

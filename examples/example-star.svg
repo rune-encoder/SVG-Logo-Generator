@@ -1,9 +1,0 @@
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Astloch&family=Ballet:opsz@16..72&family=Cherish&family=Grenze+Gotisch:wght@200&family=Handjet:wght@300&family=Roboto&family=Sofia+Sans+Condensed:wght@300&family=Ysabeau+Infant:wght@300&family=Ysabeau+Office&family=Ysabeau+SC:wght@300&family=Yuji+Boku&display=swap" rel="stylesheet">
-
-<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 150.259 11.444 L 175.195 77.53 L 251.129 78.956 L 190.607 121.225 L 212.6 188.192 L 150.259 148.23 L 87.918 188.192 L 109.911 121.225 L 49.389 78.956 L 125.323 77.53 Z" style="fill: #A95C68" bx:shape="star 150.259 109.148 106.061 97.704 0.4 5 1@00c391ac"></path>
-  <text x="150" y="125" text-anchor="middle" font-size="60" font-family='Cherish', fill="#C3B1E1">fsI</text>
-</svg>
