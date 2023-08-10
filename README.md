@@ -2,7 +2,7 @@
 
  ## Description
  
- **SVG Logo Generator Video Walkthrough Link: [Youtube Video](https://www.youtube.com/watch?v=vDmrfy6X58o)** 
+ **SVG Logo Generator Video Walkthrough Link: [Youtube Video](https://www.youtube.com/watch?v=b4VhrR389VU)** 
  
  This application will generate a logo SVG file.  
  It will create the logo based on your own input and choices.  
