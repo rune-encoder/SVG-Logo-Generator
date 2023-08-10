@@ -6,6 +6,8 @@ const { writeFile } = require("fs").promises;
 
 // Loads modules from renderColorList.js. Creates a list of choices for our color options
 const renderColorList = require("./lib/util/renderColorList.js");
+// Loads modules from renderFontList.js. Creates a list of choices for our font options
+const renderFontList = require("./lib/util/renderFontList.js");
 // Loads modules from generateLogo.js. Will be used to pass our user input and create a SVG logo.
 const generateLogo = require("./lib/util/generateLogo.js");
 // Loads modules from console-colors.js. Changes the console's text color. 
@@ -57,7 +59,7 @@ const questions = () => {
       type: "list",
       name: "font",
       message: `${cliColors.magenta(`What font would you like in your logo?`)}`,
-      choices: ['Astloch', 'Ballet', 'Cherish', 'Grenze Gotisch', 'Handjet', 'Roboto', 'Sofia Sans Condensed', 'Ysabeau Infant', 'Ysabeau Office', 'Ysabeau SC', 'Yuji Boku', 'san-serif'],
+      choices: renderFontList.prototype.fontList,
       default: 'san-serif',
     },
   ]);
@@ -67,6 +69,7 @@ const questions = () => {
 const init = () => {
   // Generates color option's list that will be used for our choices with renderColorList.js module.
   renderColorList();
+  renderFontList();
   // Generates questions with inquier.
   questions()
   // Passes answers to generate SVG Logo code that will be used in our logo.svg file.

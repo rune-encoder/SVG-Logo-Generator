@@ -1,9 +1,0 @@
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Astloch&family=Ballet:opsz@16..72&family=Cherish&family=Grenze+Gotisch:wght@200&family=Handjet:wght@300&family=Roboto&family=Sofia+Sans+Condensed:wght@300&family=Ysabeau+Infant:wght@300&family=Ysabeau+Office&family=Ysabeau+SC:wght@300&family=Yuji+Boku&display=swap" rel="stylesheet">
-
-<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 227.387 39.567 C 218.018 29.889 205.161 24.559 191.182 24.559 C 180.734 24.559 171.166 27.705 162.741 33.909 C 158.492 37.04 154.639 40.871 151.242 45.343 C 147.849 40.872 143.995 37.04 139.744 33.909 C 131.321 27.705 121.753 24.559 111.305 24.559 C 97.325 24.559 84.467 29.889 75.098 39.567 C 65.84 49.132 60.74 62.199 60.74 76.364 C 60.74 90.941 66.445 104.286 78.693 118.36 C 89.648 130.951 105.396 143.731 123.632 158.53 C 129.86 163.585 136.917 169.313 144.246 175.416 C 146.182 177.032 148.669 177.922 151.242 177.92 C 153.816 177.921 156.3 177.032 158.237 175.418 C 165.566 169.315 172.628 163.583 178.857 158.527 C 197.092 143.73 212.838 130.951 223.795 118.359 C 236.043 104.286 241.747 90.942 241.747 76.362 C 241.747 62.199 236.647 49.132 227.387 39.567 Z M 227.387 39.567" fill="#D2042D;" style=""></path>
-  <text x="150" y="125" text-anchor="middle" font-size="60" font-family='Sofia Sans Condensed', fill="#353935">pfI</text>
-</svg>
