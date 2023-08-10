@@ -4,6 +4,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Astloch&family=Ballet:opsz@16..72&family=Cherish&family=Grenze+Gotisch:wght@200&family=Handjet:wght@300&family=Roboto&family=Sofia+Sans+Condensed:wght@300&family=Ysabeau+Infant:wght@300&family=Ysabeau+Office&family=Ysabeau+SC:wght@300&family=Yuji+Boku&display=swap" rel="stylesheet">
 
 <svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-  <rect x="70" y="20" width="160" height="160" fill="#000080" stroke-width="5"/>
-  <text x="150" y="125" text-anchor="middle" font-size="60" font-family='Handjet', fill="#FFDEAD">ALE</text>
+  <path style="fill: #0BDA51;" transform="matrix(0.317274, 0, 0, 0.24623, -63.813007, -36.903751)" d="M 369.571 392 A 370 370 0 1 1 369.571 762 A 270.746 270.746 0 1 0 369.571 392 Z" bx:shape="crescent 690 577 370 300 0.7 1@fdacdeae"></path>
+  <text x="150" y="125" text-anchor="middle" font-size="60" font-family='Handjet', fill="#E5E4E2">npE</text>
 </svg>
