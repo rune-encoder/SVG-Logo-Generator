@@ -10,6 +10,11 @@
  You will need to answer a series of questions.  
  Once you have answered all the questions your logo will be generated.  
  
+ >Generated svg Logo on the Browser
+ ![Screenshot](./assets/screenshots/generated-shapes.png) 
+ 
+>Application Screenshot
+ ![Screenshot](./assets/screenshots/screenshot.png) 
  ## Table of Contents
  
   - [Installation](#installation)
@@ -79,7 +84,3 @@ This website has an excellent list of colors and their hexadecimal equivalent.
 
  **If you would like to check out my other projects visit this link: [Projects Link: rune-encoder](https://github.com/rune-encoder?tab=repositories)**  
     
-
-## Screenshot
- >Application Screenshot
- ![Screenshot](./assets/screenshots/screenshot.png) 
