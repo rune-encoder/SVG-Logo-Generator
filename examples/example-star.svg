@@ -1,0 +1,7 @@
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg" text-anchor="middle">
+  <style>
+  @import url(&quot;https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300&quot;);
+  </style>
+  <path d="M 150.259 11.444 L 175.195 77.53 L 251.129 78.956 L 190.607 121.225 L 212.6 188.192 L 150.259 148.23 L 87.918 188.192 L 109.911 121.225 L 49.389 78.956 L 125.323 77.53 Z" style="fill: #C4B454" shape="star 150.259 109.148 106.061 97.704 0.4 5 1@00c391ac"></path>
+  <text x="150" y="125" text-anchor="middle" font-size="60" font-family='Grenze Gotisch' fill="#D3D3D3">sjC</text>
+  </svg>

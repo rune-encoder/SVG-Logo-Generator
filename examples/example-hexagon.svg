@@ -1,0 +1,7 @@
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg" text-anchor="middle">
+  <style>
+  @import url(&quot;https://fonts.googleapis.com/css2?family=Yuji+Boku&quot;);
+  </style>
+  <path d="M 149.931 17.671 L 229.2 58.881 L 229.2 141.302 L 149.931 182.513 L 70.662 141.303 L 70.662 58.881 Z" style="fill: #A95C68" shape="n-gon 149.931 100.092 91.532 82.421 6 0 1@63f98990"></path>
+  <text x="150" y="125" text-anchor="middle" font-size="60" font-family='Yuji Boku' fill="#B6D0E2">dGe</text>
+  </svg>
