@@ -10,7 +10,7 @@
  You will need to answer a series of questions.  
  Once you have answered all the questions your logo will be generated.  
  
- >Generated svg Logo on the Browser
+ >Generated svg Logo displayed on the browser:
  ![Screenshot](./assets/screenshots/generated-shapes.png) 
  
 >Application Screenshot
